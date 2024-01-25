@@ -1,0 +1,5 @@
+Documentação da MDN:
+https://developer.mozilla.org/pt-BR/docs/Web/HTML
+
+Guias da w3schools:
+https://www.w3schools.com/html/html_intro.asp
