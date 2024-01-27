@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <title>Campo de Caixa e Seleção</title>
+  </head>
+
+  <body>
+    <h1>Formulários no HTML</h1>
+    <h2>Campo de Caixa e Seleção</h2>
+
+    <form>
+      <label for="situacao">Situação Atual:</label>
+      <select name="situacao" id="situacao">
+        <option value="" selected disabled>Selecione uma das opções ...</option>
+        <option value="estudante">
+          Estudando para me tornar um programador
+        </option>
+        <option value="estagiario">Atuando como estagiário/trainee</option>
+        <option value="junior">Atuando como desenvolvedor júnior</option>
+        <option value="pleno">Atuando como desenvolvedor pleno</option>
+        <option value="senior">Atuando como desenvolvedor sênior</option>
+      </select>
+
+      <br /><br />
+
+      <label for="sobre">Sobre Mim:</label>
+      <br />
+      <textarea
+        name="sobre"
+        id="sobre"
+        cols="50"
+        rows="10"
+        placeholder="Fale um pouco sobre você ..."
+      ></textarea>
+
+      <br /><br />
+
+      <button type="submit">Enviar</button>
+    </form>
+  </body>
+</html>
