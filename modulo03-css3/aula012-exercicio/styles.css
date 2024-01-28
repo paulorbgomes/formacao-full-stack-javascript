@@ -1,0 +1,9 @@
+.principal {
+}
+
+.elemento {
+  width: 30%;
+  background-color: black;
+  color: white;
+  display: inline-block;
+}
