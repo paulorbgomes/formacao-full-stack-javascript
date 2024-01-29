@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+header p {
+  margin-bottom: 20px;
+}
+
+main {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.secao1 p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.secao1 button {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border: 1px solid transparent;
+  border-radius: 20px;
+}
+
+.secao1 img {
+  display: block;
+  width: 30vw;
+  margin: 20px auto;
+}
+
+.secao2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.secao2 p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+nav {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.secao2 button {
+  background-color: cornflowerblue;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border: 1px solid transparent;
+  border-radius: 20px;
+  margin: 5px;
+}
+
+.secao2 .verMais {
+  background-color: black;
+}
+
+.secao3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.secao3 p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.secao3 button {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border: 1px solid transparent;
+  border-radius: 20px;
+  margin-bottom: 30px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
